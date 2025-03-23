@@ -1,1 +1,3 @@
-# asm_do_it_all
+```
+docker compose up --build
+```
